@@ -1,0 +1,31 @@
+[{
+	"org": "Infy",
+	"name": {
+		"title": "Mr",
+		"first": "Saroj",
+		"last": "Rout"
+	},
+	"dept": "software",
+	"email": "test@infy.com",
+	"username": "skr"
+}, {
+	"org": "ninjaTech",
+	"name": {
+		"title": "Mr",
+		"first": "Nishant",
+		"last": "Nishanko"
+	},
+	"dept": "software",
+	"email": "nishant@ninjatech.com",
+	"username": "nishanko"
+}, {
+	"gender": "IBM",
+	"name": {
+		"title": "miss",
+		"first": "Shruit",
+		"last": "Hassan"
+	},
+	"dept": "sales",
+	"email": "shruti@ninjatech.com",
+	"username": "helloshruti"
+}]
